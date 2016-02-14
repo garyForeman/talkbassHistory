@@ -1,9 +1,9 @@
 talkbassHistory
 ===============
 
-- Author: Gary Foreman
-- email: gforema2@illinois.edu
-- [talkbass thread](http://www.talkbass.com/threads/thread-count-tb-classifieds.1081726/)
+Author: Gary Foreman  
+email: gforema2@illinois.edu  
+[talkbass thread](http://www.talkbass.com/threads/thread-count-tb-classifieds.1081726/)
 
 Requirements
 ------------
