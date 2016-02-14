@@ -9,7 +9,7 @@ Requirements
 ------------
 - matplotlib.pyplot
 - numpy
-- urllib
+- pyquery
 
 If you wish to run this code make sure `monthYearDicts.py`, `history.py`, and 
 `plot.py` are in the same directory. `history.py` imports `monthYearDicts.py`. 
